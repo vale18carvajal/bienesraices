@@ -1,0 +1,1 @@
+{"version":3,"sources":["layout/header.scss","layout/header.css"],"names":[],"mappings":"AACA,OACI,qBAAA,CACA,mBCAJ","file":"header.css","sourcesContent":["\r\nheader{\r\n    background-color: yellow;\r\n    padding: 1rem 0 3rem 0;\r\n}","header {\n  background-color: yellow;\n  padding: 1rem 0 3rem 0;\n}"]}
